@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\",
+  "WorkspaceRootPath": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Scripts\\001_Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PBS\\pokemon.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Scripts\\001_Settings.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "pokemon.txt",
-              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt",
+              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt",
               "RelativeDocumentMoniker": "PBS\\pokemon.txt",
-              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt",
+              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\PBS\\pokemon.txt",
               "RelativeToolTip": "PBS\\pokemon.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-08-07T22:28:19.842Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "000_Config.rb",
-              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
+              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
               "RelativeDocumentMoniker": "Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
-              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
+              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
               "RelativeToolTip": "Plugins\\Following Pokemon EX\\Configuration\\000_Config.rb",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBIAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAenSURBVFhHzZdrbFzFFcd/M7vru3cfXm8SK37EToJTx3ZCQiseoiIQHi24RFGiKFBUFQRFLUICtVUl1FZqFfGhT0HaAFJp1EotVZGKQAoCykOq0jYNQSFB4CY4cYJjxw7eXa/Xa\u002B/j3pk70w/eNYkThQBS2790dOaeO/ec/5yZOXMH/pew1i40/dchFho\u002BDUZHPhAdnSvPG83oyLBAiIgQhKVAIqQRoFrbOhTA\u002BPhpKQ4ePLCqKbXou\u002BFwyLWWpMUmgAZAA/6cFgFgrLUOEANiFqJYwhaMECgQGrCAAyImhIgiaAARBiGFEEZKoUJSBIFWlMsl4boxJX6187FrdEN6//CpMXHTtRuRkbm0NDgOQeCjlaQ4a1gUC2hsWUQ0IhFCIIVASIkUEhmSCCGRUsy9k7U\u002BUiKkmOsjJaGQIJ/9EGsDZmdnicfi74hf/Pyn7bIheXyqUHI3XHcdUoIJAqwFGTJ4nsYag/IrhMJhqtUyUoZoTDaSz08Sj8fJZjMEgSYajTJTnCHqOgQ6QClFqimFUorBwUGUrwgCgzGGu\u002B\u002B5m1Vdl\u002B0QTz21S5rA5sbHx9P/PnKUjo5l5HI5Ojs6OXHyJFJKmpqaMMbQsnQpExMTTBUKdHZ2MjY2RltbG1oHBIGmUqngui4AWmtSqRThcJgzZ86QzWbn10YymWTXrl/jurGN8sEHHzKe50/lpwq0tLRQqVRZsqQZC7S3t7NixQq6urpwHIeq57Gso4M1a9YghGDDhg2kUilCIUk6nSadTuM4Do7jMDU1RbVapVAoUC6XsdZircUYQ09PD1gmXNd9UwA8/vhjLxw8\u002BPYWay2lUoloNEo8HqdYLBIEAQC\u002B70Nt6wohMMYgxNycW2uJRqNIKdFaEwqFiEQiOI5DIpGgUqkwNjY2n4H777\u002Bf/v7\u002BFxOJxGYJ0JhsnBJCUK1WWb58\u002Bbyj1tZW2tvbaW5uxnVd1q9fT29vL2vXrmXZsmWsXr2a7u5uOjo66OzsZPHixaRSKQCCIMBaSy6XI5PJYIwhCAKCIKC3txewr1OvA88884cdr776\u002Bo\u002BUUqTTaUqlEkEQIIRgZmYGrTXGmHli9UzUC9nCgnax53Q6ze7du7WUYn0q1XREAkgp3y9MTZHP5xkaGuLMmTNkMhkmJiYolUp4nodSCs/z0FqjtZ4fTRAE54xuoZzdV2tNd3c3wAepVNMRADlHkWI8kbCf1Nmlts8m3dfXh9Z6bz0jEsBYM\u002BQ4DWZhwLPl4xzX2x8n69atQ2v10jkEwuFwNhQKm4s5vJDtk0pTUxPJZFJprfedQ8CreqV4PJ5f\u002BMGlilIKrRTJ6WkWTU\u002BjlJqz1d/VdE9PD0KIfb6vcucQiMVjynWj4\u002Bc4PEtfyKaUIlStcnUux7eGh/nhe\u002B/x/cFBfnzsGN84doyuyUlUbfHWv\u002Bnp6UEp9beurq75bSEBtm\u002B/04DILAxwoeBCa\u002B7atInfbL2TvUeP8\u002BSpU2zJ5\u002BnUmsbaMXp1ucwjo6M8ffw42zOSkKcwxtDX14vv\u002B6/Xg88TAEgmEqd83z8v4NmifZ\u002BpDdvY172J0mWfpxSJcAT4oHZ2B4CqnclRIKU13yxP8uy3b2DrTW24biy3e/fugQsSiEaj2bPTdSGtWr7AcOtG9pyssm0kye\u002B\u002B8yQt3b2sAFqBNqADWAVcJqHjvk2U372P4OtR7n30cxSOPT\u002B8c\u002BfOuZpeQ6jeuPmWm1cePnR4s65VvXo9qOuGRDsn12zDighuKsqmFTEeuuc6MtvuYklfHy0bbiJ16\u002B0kv9RP7vZGdvUPMXqvJh9rZmniStKNq2nrdVrFcFHue3dkXy1hHxG47bZbVw4ODt45Ozt7TmBjDI7TyPiqLXir2pHdaVYsjSAxrI5HOD3hI/tW07r5Frwvpjlw1U94ofQKL1YDRtw8z00f4vHRPewdfYdyKSLuuGPL9YumTfLvB4/tBfQ8gRs3bnSOHD36QKFQQGttlVJWKeX5vj/qr\u002B\u002BvTN\u002B6KUlrCiKSmAXPt7w7XmJgrEpkxmPtKpdo5AnePPlXnj9a4YCBEReyEtQsjGbzvHH8ML/91x7K7eKa0IHSoemKPjG/BjxfnahUKk\u002BXSqUfVCqVr3qet9b3/cXFYvHymdd\u002BvzXxz5cOMxlgcwHZjKaY17yV8XltyuOtTIUPC68QYpJrFvdzyIYILHgVoAhMAXlgEoKsDY7\u002B8v3HRvKVAUBeyl\u002BxBJISliev2Lxj\u002Btp7t\u002BDEaGgI40eASJgb2iwv3/0cMccHYjwxMMBD\u002B98g5NQmujBHJJzFa3iWR8sZ9gCjQHF\u002BCi4CC/gWSt6Hg/sbTw1UdbLnau2HQ3gC4iEeuPzP3Ljkj1B5DyqHuSo5zqGcx\u002BlpsNNgitAwynTkTzxSzvMycBqYAcylZKAOUdvezfHoktvUFQ//zG9e2dS8Ls6Jr3yNZLjyUS8gG8AVAzA\u002BBu4QE\u002BYvfM/zeAsYB0q1gX20Cy4RGigrXR4Nj\u002B/bH6Xpqh1f/sfi65ccmatAuiYKYgrWRGDPSwzpF3jYU7xdC16uB\u002Bcz3IzCQCoEy9uiXBkKI42d82oM1hisCSAwmILhuJ4rlhmgutDRpyVAbXG6QLxG6EKwgAfM1m5Z5\u002BGzEKhDXMRPPdXn3Rv/b/Afd7437qzGLsoAAAAASUVORK5CYII=",
               "WhenOpened": "2025-08-07T22:29:04.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "001_Battle.rb",
-              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
+              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
               "RelativeDocumentMoniker": "Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
-              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
+              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
               "RelativeToolTip": "Data\\Scripts\\011_Battle\\001_Battle\\001_Battle.rb",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAenSURBVFhHzZdrbFzFFcd/M7vru3cfXm8SK37EToJTx3ZCQiseoiIQHi24RFGiKFBUFQRFLUICtVUl1FZqFfGhT0HaAFJp1EotVZGKQAoCykOq0jYNQSFB4CY4cYJjxw7eXa/Xa\u002B/j3pk70w/eNYkThQBS2790dOaeO/ec/5yZOXMH/pew1i40/dchFho\u002BDUZHPhAdnSvPG83oyLBAiIgQhKVAIqQRoFrbOhTA\u002BPhpKQ4ePLCqKbXou\u002BFwyLWWpMUmgAZAA/6cFgFgrLUOEANiFqJYwhaMECgQGrCAAyImhIgiaAARBiGFEEZKoUJSBIFWlMsl4boxJX6187FrdEN6//CpMXHTtRuRkbm0NDgOQeCjlaQ4a1gUC2hsWUQ0IhFCIIVASIkUEhmSCCGRUsy9k7U\u002BUiKkmOsjJaGQIJ/9EGsDZmdnicfi74hf/Pyn7bIheXyqUHI3XHcdUoIJAqwFGTJ4nsYag/IrhMJhqtUyUoZoTDaSz08Sj8fJZjMEgSYajTJTnCHqOgQ6QClFqimFUorBwUGUrwgCgzGGu\u002B\u002B5m1Vdl\u002B0QTz21S5rA5sbHx9P/PnKUjo5l5HI5Ojs6OXHyJFJKmpqaMMbQsnQpExMTTBUKdHZ2MjY2RltbG1oHBIGmUqngui4AWmtSqRThcJgzZ86QzWbn10YymWTXrl/jurGN8sEHHzKe50/lpwq0tLRQqVRZsqQZC7S3t7NixQq6urpwHIeq57Gso4M1a9YghGDDhg2kUilCIUk6nSadTuM4Do7jMDU1RbVapVAoUC6XsdZircUYQ09PD1gmXNd9UwA8/vhjLxw8\u002BPYWay2lUoloNEo8HqdYLBIEAQC\u002B70Nt6wohMMYgxNycW2uJRqNIKdFaEwqFiEQiOI5DIpGgUqkwNjY2n4H777\u002Bf/v7\u002BFxOJxGYJ0JhsnBJCUK1WWb58\u002Bbyj1tZW2tvbaW5uxnVd1q9fT29vL2vXrmXZsmWsXr2a7u5uOjo66OzsZPHixaRSKQCCIMBaSy6XI5PJYIwhCAKCIKC3txewr1OvA88884cdr776\u002Bo\u002BUUqTTaUqlEkEQIIRgZmYGrTXGmHli9UzUC9nCgnax53Q6ze7du7WUYn0q1XREAkgp3y9MTZHP5xkaGuLMmTNkMhkmJiYolUp4nodSCs/z0FqjtZ4fTRAE54xuoZzdV2tNd3c3wAepVNMRADlHkWI8kbCf1Nmlts8m3dfXh9Z6bz0jEsBYM\u002BQ4DWZhwLPl4xzX2x8n69atQ2v10jkEwuFwNhQKm4s5vJDtk0pTUxPJZFJprfedQ8CreqV4PJ5f\u002BMGlilIKrRTJ6WkWTU\u002BjlJqz1d/VdE9PD0KIfb6vcucQiMVjynWj4\u002Bc4PEtfyKaUIlStcnUux7eGh/nhe\u002B/x/cFBfnzsGN84doyuyUlUbfHWv\u002Bnp6UEp9beurq75bSEBtm\u002B/04DILAxwoeBCa\u002B7atInfbL2TvUeP8\u002BSpU2zJ5\u002BnUmsbaMXp1ucwjo6M8ffw42zOSkKcwxtDX14vv\u002B6/Xg88TAEgmEqd83z8v4NmifZ\u002BpDdvY172J0mWfpxSJcAT4oHZ2B4CqnclRIKU13yxP8uy3b2DrTW24biy3e/fugQsSiEaj2bPTdSGtWr7AcOtG9pyssm0kye\u002B\u002B8yQt3b2sAFqBNqADWAVcJqHjvk2U372P4OtR7n30cxSOPT\u002B8c\u002BfOuZpeQ6jeuPmWm1cePnR4s65VvXo9qOuGRDsn12zDighuKsqmFTEeuuc6MtvuYklfHy0bbiJ16\u002B0kv9RP7vZGdvUPMXqvJh9rZmniStKNq2nrdVrFcFHue3dkXy1hHxG47bZbVw4ODt45Ozt7TmBjDI7TyPiqLXir2pHdaVYsjSAxrI5HOD3hI/tW07r5Frwvpjlw1U94ofQKL1YDRtw8z00f4vHRPewdfYdyKSLuuGPL9YumTfLvB4/tBfQ8gRs3bnSOHD36QKFQQGttlVJWKeX5vj/qr\u002B\u002BvTN\u002B6KUlrCiKSmAXPt7w7XmJgrEpkxmPtKpdo5AnePPlXnj9a4YCBEReyEtQsjGbzvHH8ML/91x7K7eKa0IHSoemKPjG/BjxfnahUKk\u002BXSqUfVCqVr3qet9b3/cXFYvHymdd\u002BvzXxz5cOMxlgcwHZjKaY17yV8XltyuOtTIUPC68QYpJrFvdzyIYILHgVoAhMAXlgEoKsDY7\u002B8v3HRvKVAUBeyl\u002BxBJISliev2Lxj\u002Btp7t\u002BDEaGgI40eASJgb2iwv3/0cMccHYjwxMMBD\u002B98g5NQmujBHJJzFa3iWR8sZ9gCjQHF\u002BCi4CC/gWSt6Hg/sbTw1UdbLnau2HQ3gC4iEeuPzP3Ljkj1B5DyqHuSo5zqGcx\u002BlpsNNgitAwynTkTzxSzvMycBqYAcylZKAOUdvezfHoktvUFQ//zG9e2dS8Ls6Jr3yNZLjyUS8gG8AVAzA\u002BBu4QE\u002BYvfM/zeAsYB0q1gX20Cy4RGigrXR4Nj\u002B/bH6Xpqh1f/sfi65ccmatAuiYKYgrWRGDPSwzpF3jYU7xdC16uB\u002Bcz3IzCQCoEy9uiXBkKI42d82oM1hisCSAwmILhuJ4rlhmgutDRpyVAbXG6QLxG6EKwgAfM1m5Z5\u002BGzEKhDXMRPPdXn3Rv/b/Afd7437qzGLsoAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-08-07T22:28:00.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T22:28:00.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "001_Settings.rb",
-              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb",
+              "DocumentMoniker": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb",
               "RelativeDocumentMoniker": "Data\\Scripts\\001_Settings.rb",
-              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb",
+              "ToolTip": "D:\\Pokemon Stuff\\v21 Tutorials\\Thundagas-Tutorial-Project\\Pokemon Essentials v21.1 2023-07-30\\Data\\Scripts\\001_Settings.rb",
               "RelativeToolTip": "Data\\Scripts\\001_Settings.rb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAenSURBVFhHzZdrbFzFFcd/M7vru3cfXm8SK37EToJTx3ZCQiseoiIQHi24RFGiKFBUFQRFLUICtVUl1FZqFfGhT0HaAFJp1EotVZGKQAoCykOq0jYNQSFB4CY4cYJjxw7eXa/Xa\u002B/j3pk70w/eNYkThQBS2790dOaeO/ec/5yZOXMH/pew1i40/dchFho\u002BDUZHPhAdnSvPG83oyLBAiIgQhKVAIqQRoFrbOhTA\u002BPhpKQ4ePLCqKbXou\u002BFwyLWWpMUmgAZAA/6cFgFgrLUOEANiFqJYwhaMECgQGrCAAyImhIgiaAARBiGFEEZKoUJSBIFWlMsl4boxJX6187FrdEN6//CpMXHTtRuRkbm0NDgOQeCjlaQ4a1gUC2hsWUQ0IhFCIIVASIkUEhmSCCGRUsy9k7U\u002BUiKkmOsjJaGQIJ/9EGsDZmdnicfi74hf/Pyn7bIheXyqUHI3XHcdUoIJAqwFGTJ4nsYag/IrhMJhqtUyUoZoTDaSz08Sj8fJZjMEgSYajTJTnCHqOgQ6QClFqimFUorBwUGUrwgCgzGGu\u002B\u002B5m1Vdl\u002B0QTz21S5rA5sbHx9P/PnKUjo5l5HI5Ojs6OXHyJFJKmpqaMMbQsnQpExMTTBUKdHZ2MjY2RltbG1oHBIGmUqngui4AWmtSqRThcJgzZ86QzWbn10YymWTXrl/jurGN8sEHHzKe50/lpwq0tLRQqVRZsqQZC7S3t7NixQq6urpwHIeq57Gso4M1a9YghGDDhg2kUilCIUk6nSadTuM4Do7jMDU1RbVapVAoUC6XsdZircUYQ09PD1gmXNd9UwA8/vhjLxw8\u002BPYWay2lUoloNEo8HqdYLBIEAQC\u002B70Nt6wohMMYgxNycW2uJRqNIKdFaEwqFiEQiOI5DIpGgUqkwNjY2n4H777\u002Bf/v7\u002BFxOJxGYJ0JhsnBJCUK1WWb58\u002Bbyj1tZW2tvbaW5uxnVd1q9fT29vL2vXrmXZsmWsXr2a7u5uOjo66OzsZPHixaRSKQCCIMBaSy6XI5PJYIwhCAKCIKC3txewr1OvA88884cdr776\u002Bo\u002BUUqTTaUqlEkEQIIRgZmYGrTXGmHli9UzUC9nCgnax53Q6ze7du7WUYn0q1XREAkgp3y9MTZHP5xkaGuLMmTNkMhkmJiYolUp4nodSCs/z0FqjtZ4fTRAE54xuoZzdV2tNd3c3wAepVNMRADlHkWI8kbCf1Nmlts8m3dfXh9Z6bz0jEsBYM\u002BQ4DWZhwLPl4xzX2x8n69atQ2v10jkEwuFwNhQKm4s5vJDtk0pTUxPJZFJprfedQ8CreqV4PJ5f\u002BMGlilIKrRTJ6WkWTU\u002BjlJqz1d/VdE9PD0KIfb6vcucQiMVjynWj4\u002Bc4PEtfyKaUIlStcnUux7eGh/nhe\u002B/x/cFBfnzsGN84doyuyUlUbfHWv\u002Bnp6UEp9beurq75bSEBtm\u002B/04DILAxwoeBCa\u002B7atInfbL2TvUeP8\u002BSpU2zJ5\u002BnUmsbaMXp1ucwjo6M8ffw42zOSkKcwxtDX14vv\u002B6/Xg88TAEgmEqd83z8v4NmifZ\u002BpDdvY172J0mWfpxSJcAT4oHZ2B4CqnclRIKU13yxP8uy3b2DrTW24biy3e/fugQsSiEaj2bPTdSGtWr7AcOtG9pyssm0kye\u002B\u002B8yQt3b2sAFqBNqADWAVcJqHjvk2U372P4OtR7n30cxSOPT\u002B8c\u002BfOuZpeQ6jeuPmWm1cePnR4s65VvXo9qOuGRDsn12zDighuKsqmFTEeuuc6MtvuYklfHy0bbiJ16\u002B0kv9RP7vZGdvUPMXqvJh9rZmniStKNq2nrdVrFcFHue3dkXy1hHxG47bZbVw4ODt45Ozt7TmBjDI7TyPiqLXir2pHdaVYsjSAxrI5HOD3hI/tW07r5Frwvpjlw1U94ofQKL1YDRtw8z00f4vHRPewdfYdyKSLuuGPL9YumTfLvB4/tBfQ8gRs3bnSOHD36QKFQQGttlVJWKeX5vj/qr\u002B\u002BvTN\u002B6KUlrCiKSmAXPt7w7XmJgrEpkxmPtKpdo5AnePPlXnj9a4YCBEReyEtQsjGbzvHH8ML/91x7K7eKa0IHSoemKPjG/BjxfnahUKk\u002BXSqUfVCqVr3qet9b3/cXFYvHymdd\u002BvzXxz5cOMxlgcwHZjKaY17yV8XltyuOtTIUPC68QYpJrFvdzyIYILHgVoAhMAXlgEoKsDY7\u002B8v3HRvKVAUBeyl\u002BxBJISliev2Lxj\u002Btp7t\u002BDEaGgI40eASJgb2iwv3/0cMccHYjwxMMBD\u002B98g5NQmujBHJJzFa3iWR8sZ9gCjQHF\u002BCi4CC/gWSt6Hg/sbTw1UdbLnau2HQ3gC4iEeuPzP3Ljkj1B5DyqHuSo5zqGcx\u002BlpsNNgitAwynTkTzxSzvMycBqYAcylZKAOUdvezfHoktvUFQ//zG9e2dS8Ls6Jr3yNZLjyUS8gG8AVAzA\u002BBu4QE\u002BYvfM/zeAsYB0q1gX20Cy4RGigrXR4Nj\u002B/bH6Xpqh1f/sfi65ccmatAuiYKYgrWRGDPSwzpF3jYU7xdC16uB\u002Bcz3IzCQCoEy9uiXBkKI42d82oM1hisCSAwmILhuJ4rlhmgutDRpyVAbXG6QLxG6EKwgAfM1m5Z5\u002BGzEKhDXMRPPdXn3Rv/b/Afd7437qzGLsoAAAAASUVORK5CYII=",
               "WhenOpened": "2025-08-07T17:08:05.412Z",
               "EditorCaption": ""
