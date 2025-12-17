@@ -17,7 +17,7 @@ FormName = Mega Charizard X
 MegaStone = CHARIZARDITEX
 Types = FIRE,DRAGON
 BaseStats = 78,130,111,100,130,85
-BaseExp = 318
+BaseExp = 317
 Abilities = TOUGHCLAWS
 HiddenAbilities = TOUGHCLAWS
 Weight = 110.5
@@ -46,6 +46,14 @@ HiddenAbilities = MEGALAUNCHER
 Weight = 101.1
 Pokedex = The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
 Generation = 6
+#-------------------------------
+[KROOKODILE,1]
+FormName = Mega Krookodile
+MegaStone = KROOKODILITE
+BaseStats = 95,217,80,92,65,70
+BaseExp = 315
+Abilities = SPEEDBOOST
+HiddenAbilities = SPEEDBOOST
 #-------------------------------
 [BEEDRILL,1]
 FormName = Mega Beedrill

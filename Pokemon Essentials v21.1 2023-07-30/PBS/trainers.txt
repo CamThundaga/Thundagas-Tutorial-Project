@@ -141,12 +141,8 @@ LoseText = You beat my gym!
 Pokemon = VILEPLUME,13
 #-------------------------------
 [PROYOUNGSTER,Billy]
-LoseText = Woah! What the heck happened?
-Pokemon = JIGGLYPUFF,10
-	Moves = SING
-Pokemon = AMOONGUSS,10
-	Moves = SPORE
-Pokemon = MAGNEMITE,10
-	Moves = SHOCKWAVE
-Pokemon = WARTORTLE,10
+Items = FULLRESTORE,MEGARING
+LoseText = Woah! You bested my Mega Evolution?
+Pokemon = BLASTOISE,40
 	Moves = WATERGUN
+    Item = BLASTOISINITE

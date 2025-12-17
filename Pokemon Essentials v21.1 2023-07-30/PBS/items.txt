@@ -2813,6 +2813,15 @@ BPPrice = 50
 Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Absol hold it, and it will be able to Mega Evolve.
 #-------------------------------
+[KROOKODILITE]
+Name = Krookodilite
+NamePlural = Krookodilites
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = One of a variety of mysterious Mega Stones. Have Krookodile hold it, and it will be able to Mega Evolve.
+#-------------------------------
 [GLALITITE]
 Name = Glalitite
 NamePlural = Glalitites

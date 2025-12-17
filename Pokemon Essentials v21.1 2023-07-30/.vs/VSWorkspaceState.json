@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data",
-    "\\Data\\Scripts",
     "\\Plugins",
+    "\\Plugins\\Delta Speed Up",
     "\\Plugins\\Following Pokemon EX",
     "\\Plugins\\Following Pokemon EX\\Configuration"
   ],
+  "SelectedNode": "\\Plugins\\Delta Speed Up\\_Main_Script.rb",
   "PreviewInSolutionExplorer": false
 }
